@@ -1,0 +1,20 @@
+{
+  "name": "juego del MOOC",
+  "short_name": "juego",
+  "icons":[
+    {"src": "512x512.png",
+    "sizes":"512x512",
+    "type":"image/png" },
+    {"src": "icono192.png",
+    "sizes":"192x192",
+    "type":"image/png" }
+
+    ],
+  "start_url": "/index.html",
+  "display":"standalone",
+  "background_color": "#f0f0f0",
+  "theme_color":"6200ee"
+  
+
+
+}
